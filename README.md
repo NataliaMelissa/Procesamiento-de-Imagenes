@@ -12,7 +12,7 @@ Las Tareas Académicas (TA) son exámenes realizados de manera grupal ya que son
   - Grupo TA45: Sergio, Cristian, Natalia Maury Castañeda (yo)
   
 ## Parcial:
-Es el exámen parcial del curso procesamiento de imágenes. Debido a que es un exámen, este fue realizado de forma individual y la imágen utilizada se encuentra en la carpeta "imágen".
+Es el exámen parcial del curso procesamiento de imágenes. Debido a que es un exámen, este fue realizado de forma individual y la imágen utilizada se encuentra en esta carpeta.
 
 ## Final:
 Es el exámen final del curso de procesamiento de imágenes y al ser un exámen, se realizó de manera individual. La imágen utilizada se encuentra en un url en el notebook subido.
