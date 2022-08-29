@@ -17,6 +17,11 @@ Es el exámen parcial del curso procesamiento de imágenes. Debido a que es un e
 ## Final:
 Es el exámen final del curso de procesamiento de imágenes y al ser un exámen, se realizó de manera individual. La imágen utilizada se encuentra en un url en el notebook subido.
 
+## Trabajo Final (TF):
+El trabajo final del curso de procesamiento de imágenes era un trabajo grupal
+- Grupo TF: Sergio, Cristian Espíritu Cueva, Natalia Maury Castañeda (yo
+
 ## Contactos:
 Los githubs de los integrantes con los que se trabajó en las actividades grupales:
 - Cristian Espíritu Cueva: https://github.com/ChristianEspirituCueva 
+- Sergio: 
